@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Frontend
 
 React frontend application for Sanika Amle's portfolio website.
@@ -87,3 +88,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# frontend-portfolio
+>>>>>>> f7c836c52eea9852cd327b0d912784926aa1ca47
